@@ -17,6 +17,7 @@ public class GameController : MonoBehaviour {
     private float fireCD = 1f;  //发射子弹间隔
     private float timeCount = 0f;
     private GameObject bullet;
+    private bool shiyan;    //为了试验GitHub
 
 
     //储存的主角属性
